@@ -3,7 +3,7 @@
   "homepage": "https://bhagyeshbhavsar.github.io/Portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "start": "node server.js",
   "scripts": {
     "predeploy": "node server.js",
